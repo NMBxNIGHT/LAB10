@@ -14,6 +14,7 @@ void printO(int n,int m){
 		}
 	}
 	return;
+	
 }
 
 int main(){
